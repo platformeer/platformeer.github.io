@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Newsletters on Platformeer</title>
+    <link>https://platformeer.com/newsletters/</link>
+    <description>Recent content in Newsletters on Platformeer</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language><atom:link href="https://platformeer.com/newsletters/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Platformeer Newsletter Issue #1</title>
+      <link>https://platformeer.com/newsletters/newsletter-001/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://platformeer.com/newsletters/newsletter-001/</guid>
+      <description>Welcome to Platformeer&amp;rsquo;s innaguarl newsletter.</description>
+    </item>
+    
+  </channel>
+</rss>
