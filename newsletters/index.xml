@@ -8,11 +8,20 @@
     <language>en-us</language><atom:link href="https://platformeer.tech/newsletters/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Platformeer Newsletter Issue #1</title>
-      <link>https://platformeer.tech/newsletters/newsletter-001/</link>
+      <link>https://platformeer.tech/newsletters/issue-001/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://platformeer.tech/newsletters/newsletter-001/</guid>
-      <description>Welcome to Platformeer&amp;rsquo;s innaguarl newsletter.</description>
+      <guid>https://platformeer.tech/newsletters/issue-001/</guid>
+      <description>This is a summary of the issue</description>
+    </item>
+    
+    <item>
+      <title>Platformeer Newsletter Issue #2</title>
+      <link>https://platformeer.tech/newsletters/issue-002/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://platformeer.tech/newsletters/issue-002/</guid>
+      <description>This is a summary of the issue</description>
     </item>
     
   </channel>
